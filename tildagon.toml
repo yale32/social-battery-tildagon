@@ -1,0 +1,23 @@
+# Tildagon app store manifest.
+# See: https://tildagon.badge.emfcamp.org/tildagon-apps/publish/
+#
+# When publishing to the store, this file must be at the ROOT of a dedicated
+# public GitHub repo. The repo also needs the `tildagon-app` topic applied and
+# a tagged GitHub release (e.g. v1.0.0).
+#
+# At that point, remove metadata.json (it is only used for local mpremote deploy).
+
+[app]
+name = "Social Battery"
+category = "Badge"
+
+[entry]
+class = "SocialBatteryApp"
+
+[metadata]
+author = "Yale32"
+license = "MIT"
+# Update this URL to the public GitHub repo before submitting.
+url = "https://github.com/Yale32/social-battery-tildagon"
+description = "Your social energy as a car fuel gauge. Auto-drains or charges at a configurable rate. BLE remote support."
+version = 1

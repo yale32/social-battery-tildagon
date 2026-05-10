@@ -20,4 +20,4 @@ license = "MIT"
 # Update this URL to the public GitHub repo before submitting.
 url = "https://github.com/Yale32/social-battery-tildagon"
 description = "Your social energy as a car fuel gauge. Auto-drains or charges at a configurable rate. BLE remote support."
-version = 1
+version = "1"

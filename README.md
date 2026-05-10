@@ -1,5 +1,7 @@
 # Social Battery — Tildagon App
 
+![Social Battery app running on a Tildagon badge](social_bat_app.jpeg)
+
 Displays your social energy as a car fuel-gauge needle on the Tildagon's round screen.
 
 ---
